@@ -1,2 +1,2 @@
 # Hardware-Modelling-2019
-Central Control Circuit
+Central Control Circuit and I2C communication
